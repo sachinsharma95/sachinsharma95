@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m @sachinsharma95
+- 👀 I’m interested in Software Development, Artificial Intelligence, Machine Learning and Data Science.
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
 
 <!--
 **sachinsharma95/sachinsharma95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
