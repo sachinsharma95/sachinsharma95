@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sachinsharma95
-- 👀 I’m interested in Software Development, Artificial Intelligence, Machine Learning and Data Science.
+- 👀 I’m interested in Software Development, Artificial Intelligence, Machine Learning and Data Science Enthusasts.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
