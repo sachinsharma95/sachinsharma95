@@ -1,5 +1,5 @@
 # 💫 About Me:
-✅I am persuing the B.Tech in Computer Science and Engineering from state University in India . 
+✅I am persuing the B.Tech in Computer Science and Engineering from state University in India.<br>
 ✅Full Stack Web Developer ( django as backend )<br>  upcoming Data Scientist + OPEN SOURCE + DATA STRUCTURE & ALGORITHMS<br>✅ I am Passionate to  create the user friendly and optimal web Application with  { HTML, CSS, JavaScript, Database(Mysql,Mongodb,Sqlite3),Backend (python-django))}. Working to crate healthy ,portable and reliable web Application .
 
 
@@ -24,6 +24,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LOVKUSH9888&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sachinsharma95&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
