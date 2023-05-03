@@ -3,7 +3,7 @@
 
 # 💫 About Me:
   
-# Hii , I am Data Aspiring Data Scientist
+# Hii , I am  Aspiring Data Scientist 
 ✅I am persuing the B.Tech in Computer Science and Engineering from state University in India.<br>
 ✅Full Stack Web Developer ( django as backend )<br>  upcoming Data Scientist + OPEN SOURCE + DATA STRUCTURE & ALGORITHMS<br>✅ I am Passionate to  create the user friendly and optimal web Application with  { HTML, CSS, JavaScript, Database(Mysql,Mongodb,Sqlite3),Backend (python-django))}. Working to crate healthy ,portable and reliable web Application .
 
